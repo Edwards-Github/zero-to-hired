@@ -3,3 +3,4 @@ git remote practice 2
 git remote practice 3
 git remote practice 4
 git remote practice 5
+git remote practice 6
